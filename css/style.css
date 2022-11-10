@@ -1,0 +1,35 @@
+header {
+  height: 5rem;
+  background-color: #2c3d50;
+}
+
+.cerchio {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+
+.white_box {
+  background-color: white;
+  height: 40px;
+}
+
+.blue_box {
+  background-color: white;
+  height: 5rem;
+}
+
+.green_box {
+  background-color: #1abc9c;
+  height: 20rem;
+}
+
+.red_box {
+  background-color: salmon;
+  height: 15rem;
+}
+
+footer {
+  height: 20rem;
+  background-color: #2c3d50;
+}
