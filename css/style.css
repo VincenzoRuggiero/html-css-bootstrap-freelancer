@@ -6,6 +6,21 @@ header {
   width: 12rem;
 }
 
+.white-line {
+  width: 10%;
+  border-top: 5px solid white;
+}
+
+.dark-line {
+  width: 10%;
+  border-top: 5px solid black;
+}
+
+.fa-star {
+  padding: 0 10px;
+  font-size: 1.5rem;
+}
+
 button i {
   margin-right: 0.5rem;
 }
